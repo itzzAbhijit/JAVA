@@ -1,4 +1,4 @@
-☕ JAVA
+📘 JAVA(OOPS)
 
 This repository contains various Java programs and implementations ranging from basic concepts to intermediate-level topics.
 It is designed to help beginners and learners understand the core principles of Java programming through simple, modular, and well-commented examples.
