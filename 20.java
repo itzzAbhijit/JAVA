@@ -1,3 +1,10 @@
+Simulate a ticket booking system where
+multiple users((threads) are trying to
+book tickets from l a
+a limited pool.
+Prevent overbooking using
+synchronization
+
 class TicketBooking {
     private int availableSeats = 5;
 
