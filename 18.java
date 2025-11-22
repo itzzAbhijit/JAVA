@@ -1,3 +1,8 @@
+//Write a multithreaded program that calculates the factorial of numbers in parallel I using
+a
+1 thread ] for each
+calculation
+
 class FactorialThread extends Thread {
     private int number;
 
