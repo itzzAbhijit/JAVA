@@ -1,3 +1,9 @@
+//Write a Java program to create a class known as Person with methods called getFirstName()and getlastName()
+Create a subclass called Employee that
+adds new method named
+getEmployeeld()and overrides 1the
+getlastName() method to include the employee's job title
+
 class Person {
     protected String firstName;
     protected String lastName;
