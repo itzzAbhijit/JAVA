@@ -1,3 +1,9 @@
+//Implement
+(0
+producer-consumer
+problem using wait()and notify)
+methods
+
 class Buffer {
     private int data;
     private boolean available = false;
