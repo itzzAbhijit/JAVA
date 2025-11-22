@@ -1,3 +1,8 @@
+//Write a program that accepts 2 integers a and b as input and finds the quotient of a/b This program may generate an Arithmetic
+Exception. Use exception handling
+mechanisms to handle this exception. In the
+catch block, print the message as shown in the sample output. Also illustrate the use of finally block. Print the message "Inside finally block"//
+
 import java.util.Scanner;
 
 // Class to perform division
