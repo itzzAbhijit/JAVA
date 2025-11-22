@@ -1,4 +1,7 @@
-// Assignment 15 - Merged Single File Code
+Create a package bank with an interface Account having methods deposit(), withdraw(), and getBalance().
+Implement classes SavingsAccount and CurrentAccount.
+Test in BankTest.
+
 
 interface Account {
     void deposit(double amount);
