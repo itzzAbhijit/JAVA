@@ -1,7 +1,7 @@
 //Implement
 (0
 producer-consumer
-problem using wait()and notify)
+problem using wait ()and notify ( )
 methods
 
 class Buffer {
